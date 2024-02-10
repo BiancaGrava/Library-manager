@@ -1,0 +1,4 @@
+1,noaptea de sinziene,mircea eliade,1920
+2,scrisoarea de dragoste,mihail drumes,1890
+3,crima si pedeapsa,f.m.dostoievski,1900
+4,padurea spanzuratilor,liviu rebreanu,1913
